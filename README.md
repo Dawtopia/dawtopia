@@ -10,6 +10,8 @@
 
 ---
 
+<div align="center">
+
 ## About
 
 I'm Muhammad Sahrul Mubarrok, an aspiring multiplatform developer with a visual arts background. I combine aesthetic thinking with technical problem-solving to build clean, meaningful digital experiences.
@@ -19,6 +21,8 @@ My shift from visual artist to developer is an evolution of how I create: from c
 Right now I'm building NoteAI, my first full-stack app a practical learning project and a step toward my goal of making apps that are functional, simple, and genuinely useful.
 
 My long-term goal is to become a multiplatform developer capable of building complete applications end-to-end, creating tools that empower everyday users.
+
+<div align="center">
 
 ## Currently Working With
 
@@ -34,6 +38,8 @@ My long-term goal is to become a multiplatform developer capable of building com
 
 </div>
 
+<div align="center">
+
 ## Projects
 
 ### NoteAI — AI-Powered Note-Taking Application
@@ -48,7 +54,9 @@ An intelligent note-taking application that leverages AI to help users organize 
 
 **Role:** Solo Developer — Handling everything from architecture design, frontend implementation, backend development, to AI integration and deployment planning.
 
-## 📊 GitHub Stats
+<div align="center">
+
+## GitHub Stats
 
 <div align="center">
 
