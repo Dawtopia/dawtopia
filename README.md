@@ -18,7 +18,7 @@ I'm Muhammad Sahrul Mubarrok, an aspiring multiplatform developer with a visual 
 
 My shift from visual artist to developer is an evolution of how I create: from crafting visuals to building digital solutions that help people. That foundation shapes how I approach UI, UX, and overall product flow.
 
-Right now I'm building NoteAI, my first full-stack app a practical learning project and a step toward my goal of making apps that are functional, simple, and genuinely useful.
+Right now I'm building NoteAI, my first full-stack app — a practical learning project and a step toward my goal of making apps that are functional, simple, and genuinely useful.
 
 My long-term goal is to become a multiplatform developer capable of building complete applications end-to-end, creating tools that empower everyday users.
 
@@ -48,29 +48,14 @@ An intelligent note-taking application that leverages AI to help users organize 
 
 **What makes NoteAI special:** Beyond basic note-taking, NoteAI aims to understand context and provide smart suggestions, making the process of capturing and retrieving information more intuitive. It's designed for casual users who want powerful features without complexity.
 
-**Tech Stack:** React, TypeScript, Node.js, Python, AI Integration
-
-**Status:** In Active Development
-
+**Tech Stack:** React, TypeScript, Node.js, Python, AI Integration  
+**Status:** In Active Development  
 **Role:** Solo Developer — Handling everything from architecture design, frontend implementation, backend development, to AI integration and deployment planning.
-
-<div align="center">
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawtopia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dawtopia&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawtopia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dawtopia&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" />
 
 </div>
 
 ---
 
-<div align="center">
 
 ### Let's Connect
 
