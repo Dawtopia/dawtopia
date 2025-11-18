@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=500&size=23&duration=3600&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Learning+Fullstack+Development;Creating+Apps+That+Matter;Visual+Artist+%E2%96%BA+App+Developer;Building+NoteAI)](https://git.io/typing-svg)
 
-**Transforming creativity into code** | Building multiplatform apps for everyday users
+**intermediate developer** | exploring data science, and cybersecurity
 
 </div>
 
@@ -95,6 +95,7 @@ Beyond basic note-taking, NoteAI understands context and provides smart suggesti
 ---
 
 ### Status
+  
 > **In Active Development**  
 > Core features are being built, refined, and tested.
 
