@@ -16,7 +16,7 @@ I'm Muhammad Sahrul Mubarrok, an aspiring multiplatform developer with a visual 
 
 My shift from visual artist to developer is an evolution of how I create: from crafting visuals to building digital solutions that help people. That foundation shapes how I approach UI, UX, and overall product flow.
 
-Right now I'm building NoteAI, my first full-stack app — a practical learning project and a step toward my goal of making apps that are functional, simple, and genuinely useful.
+Right now I'm building NoteAI, my first full-stack app a practical learning project and a step toward my goal of making apps that are functional, simple, and genuinely useful.
 
 My long-term goal is to become a multiplatform developer capable of building complete applications end-to-end, creating tools that empower everyday users.
 
@@ -48,22 +48,6 @@ Learning Style: Learning by building real projects
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-
----
-
-## Projects
-
-<div align="center">
-
-### NoteAI  
-#### AI-Powered Note-Taking Application
-
-</div>
-
-> An intelligent note-taking application that uses AI to help users organize and manage their thoughts more effectively. This is my first full-stack desktop application built with Tauri, Rust, and modern web technologies.
-
-**What makes NoteAI special:**  
-Beyond basic note-taking, NoteAI understands context and provides smart suggestions, making the process of capturing and retrieving information more intuitive—powerful features without unnecessary complexity.
 
 ---
 
@@ -124,10 +108,10 @@ Beyond basic note-taking, NoteAI understands context and provides smart suggesti
 
 <div align="center">
 
+**Open to collaborations and learning opportunities**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahrulmubarrok)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dawtopia)
-
-**Open to collaborations and learning opportunities**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dawtopia&color=6366F1&style=flat-square)
 
