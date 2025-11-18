@@ -1,10 +1,13 @@
 <div align="center">
-  
-# Hey, I'm Sahrul!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=500&size=23&duration=3600&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Learning+Fullstack+Development;Creating+Apps+That+Matter;Visual+Artist+%E2%96%BA+App+Developer;Building+NoteAI)](https://git.io/typing-svg)
+  <h1>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="45" style="margin-right: 10px;" />
+    Hey, I'm Sahrul!
+  </h1>
 
-**intermediate developer** | exploring data science, and cybersecurity
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=500&size=23&duration=3600&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Learning+Fullstack+Development;Creating+Apps+That+Matter;Visual+Artist+%E2%96%BA+App+Developer;Building+NoteAI)](https://git.io/typing-svg)
+
+  **intermediate developer** | exploring data science, and cybersecurity
 
 </div>
 
