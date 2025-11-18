@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="45" style="margin-right: 10px;" />
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="33" style="margin-right: 5px;" />
     Hey, I'm Sahrul!
   </h1>
 
